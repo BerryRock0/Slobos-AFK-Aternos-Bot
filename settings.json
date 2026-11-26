@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mdenials.aternos.me",
-    "port": 27586,
+    "port": 46401,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "imgodofthisworld"
     },
     "anti-afk": {
       "enabled": true,
